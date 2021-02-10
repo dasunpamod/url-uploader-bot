@@ -2,6 +2,8 @@
 
 ### Features
 
+This Is A 𝗨𝗥𝗟 𝗨𝗣𝗟𝗢𝗔𝗗 𝗕𝗢𝗧 With Permanent Thumbnail Support 
+
 🌀All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html
 
 🌀Permanent thumbnail support.
